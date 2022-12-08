@@ -2,7 +2,8 @@
 body{
   margin: 0;
   text-align: center;
-
+  
+  /* background-image: url("bg1.jpg"); */
   font-family: 'Montserrat', sans-serif;
   /*
   font-family: 'Berkshire Swash', cursive;
@@ -14,8 +15,8 @@ body{
 }
 h1{
   margin: 0;
-  margin-top: 60px;
-  color: #42855B;
+  margin-top: 70px;
+  color: #0d3d63d6;
   font-size: 4rem;
   font-family: 'Architects Daughter', cursive;
   /* font-family: 'Sacramento', cursive; */
@@ -49,7 +50,7 @@ border-color: gray;
 border-width: 1px;
 }
 .programmer{
-  color:#42855B;
+  color:#0d3d63d6;
   font-family: 'Architects Daughter', cursive;  
 }
 .skills{
@@ -59,7 +60,10 @@ border-width: 1px;
   padding-bottom: 1px;
 }
 .top-container{
-  background-color: #9ED2C6;
+  /* background-color: #9ED2C6; */
+  height: 650px;
+  background: url(bg1.jpg) ;
+  background-size: 1489px auto;
   position: relative;
   padding-top: 60px;
 }
