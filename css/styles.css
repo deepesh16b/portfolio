@@ -180,7 +180,10 @@ border-width: 1px;
 }
 .profile-div{
   padding: 0 18%;
-  margin: 0 30px;
+  /* margin: 0 30px; */
+  width: 70%;
+  text-align: center;
+  align-items: center;
 
 }
 a{
