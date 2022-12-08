@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
 body{
   margin: 0;
   text-align: center;
@@ -15,7 +16,8 @@ h1{
   margin: 0;
   margin-top: 60px;
   color: #42855B;
-  font-size: 3.5rem;
+  font-size: 4rem;
+  font-family: 'Architects Daughter', cursive;
   /* font-family: 'Sacramento', cursive; */
 }
 h2{
@@ -48,6 +50,7 @@ border-width: 1px;
 }
 .programmer{
   color:#42855B;
+  font-family: 'Architects Daughter', cursive;  
 }
 .skills{
   background-color: #9dcfc3fc;
@@ -130,9 +133,7 @@ border-width: 1px;
   margin-right: 60px;
   margin-bottom: 40px;
 }
-.news-link{
 
-}
 .dp-img{
   width: 20%;
   height:20%;
@@ -162,6 +163,7 @@ border-width: 1px;
 }
 .copyright{
   color:white;
+  font-size: 1.2rem;
   margin: 0;
   padding: 8px 0 8px 0;
 }
@@ -183,4 +185,7 @@ a{
 }
 .break{
   height: 2px;
+}
+#hello{
+  font-size: 2rem;
 }
